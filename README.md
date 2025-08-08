@@ -106,9 +106,9 @@ PollAR/
 
 ## 📷 Screenshots
 
-| Home Page                     | Create Poll                                 | Heatmap View                        |
+| Home Page                     | Captcha Verification                        | Heatmap View                        |
 | ----------------------------- | ------------------------------------------- | ----------------------------------- |
-| ![Home](screenshots/home.png) | ![Create Poll](screenshots/create_poll.png) | ![Heatmap](screenshots/heatmap.png) |
+| ![Home](screenshots/home.png) | ![Create Poll](screenshots/captcha.png) | ![Heatmap](screenshots/heatmap.png) |
 
 ---
 
